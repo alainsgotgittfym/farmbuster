@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 chk_point/
 *.log
+.env
